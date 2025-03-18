@@ -21,7 +21,7 @@ A feature-rich, modern text editor built with **React, Vite, and Tailwind CSS**.
 
   ## Screenshots
 
-  ![screenshot1]()
+  ![screenshot1](https://github.com/ItsMeAreebaAmjad/TextEditor-React/blob/main/image1.png)
   ![screenshot2]()
 
 ## Installation & Usage 🚀
