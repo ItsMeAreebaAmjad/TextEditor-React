@@ -28,5 +28,5 @@ A feature-rich, modern text editor built with **React, Vite, and Tailwind CSS**.
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/advanced-text-editor.git
+git clone https://github.com/ItsMeAreebaAmjad/TextEditor-React
 cd advanced-text-editor
