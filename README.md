@@ -19,6 +19,11 @@ A feature-rich, modern text editor built with **React, Vite, and Tailwind CSS**.
 - **Tailwind CSS**
 - **React Icons**
 
+  ## Screenshots
+
+  ![screenshot1]()
+  ![screenshot2]()
+
 ## Installation & Usage 🚀
 
 ### 1️⃣ Clone the Repository  
